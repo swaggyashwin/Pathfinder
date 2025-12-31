@@ -21,7 +21,7 @@ PathFinder AI is a Streamlit-based application that generates personalized caree
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/pathfinder.git
-cd pathfinder-ai
+cd pathfinder
 
 # Create virtual environment
 python -m venv venv
